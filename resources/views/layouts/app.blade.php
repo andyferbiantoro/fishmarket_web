@@ -191,7 +191,7 @@
             <div class="row">
                 <div class="col-md-6 ">
                     <div class="img-box">
-                        <img src="public/assets_landingpage/images/about-img.png" alt="">
+                        <img src="public/assets_landingpage/images/about.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-md-6">
@@ -231,25 +231,25 @@
                 <div class="col-md-4 footer-col">
                     <div class="footer_contact">
                         <h4>
-                            Contact Us
+                            Kontak Kami
                         </h4>
                         <div class="contact_link_box">
                             <a href="">
                                 <i class="fa fa-map-marker" aria-hidden="true"></i>
                                 <span>
-                                    Location
+                                    <!-- Location -->
                                 </span>
                             </a>
                             <a href="">
                                 <i class="fa fa-phone" aria-hidden="true"></i>
                                 <span>
-                                    Call +01 1234567890
+                                   <!--  Call +01 1234567890 -->
                                 </span>
                             </a>
                             <a href="">
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
                                 <span>
-                                    demo@gmail.com
+                                    <!-- demo@gmail.com -->
                                 </span>
                             </a>
                         </div>
@@ -258,11 +258,11 @@
                 <div class="col-md-4 footer-col">
                     <div class="footer_detail">
                         <a href="" class="footer-logo">
-                            Feane
+                            Fishmarket
                         </a>
                         <p>
-                            Necessary, making this the first true generator on the Internet. It uses a dictionary of
-                            over 200 Latin words, combined with
+                           <!--  Necessary, making this the first true generator on the Internet. It uses a dictionary of
+                            over 200 Latin words, combined with -->
                         </p>
                         <div class="footer_social">
                             <a href="">
@@ -285,13 +285,13 @@
                 </div>
                 <div class="col-md-4 footer-col">
                     <h4>
-                        Opening Hours
+                        Kapan kami buka ?
                     </h4>
                     <p>
-                        Everyday
+                        Setiap Hari
                     </p>
                     <p>
-                        10.00 Am -10.00 Pm
+                        <!-- 10.00 Am -10.00 Pm -->
                     </p>
                 </div>
             </div>
