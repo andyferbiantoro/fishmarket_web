@@ -48,7 +48,7 @@
                 <nav class="navbar navbar-expand-lg custom_nav-container fixed-top">
                     <a class="navbar-brand" href="index.html">
                         <span>
-                            Fishmarket Mandar
+                               Fishmarket Mandar
                         </span>
                     </a>
 
@@ -154,12 +154,10 @@
                         <div class="col-md-7 col-lg-6 ">
                             <div class="detail-box">
                                 <h1>
-                                    Fast Food Restaurant
+                                    Nikmati Semua Olahan Hidangan Laut
                                 </h1>
                                 <p>
-                                    Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad
-                                    mollitia laborum quam quisquam esse error unde. Tempora ex doloremque,
-                                    labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                                    Yuk, Ajak Keluarga dan Orang Terdekatmu ke Fishmarket Kampung Mandar
                                 </p>
                                 <div class="btn-box">
                                     <a href="{{ route('scan_table') }}" class="btn1">
@@ -200,20 +198,20 @@
                     <div class="detail-box">
                         <div class="heading_container">
                             <h2>
-                                We Are Feane
+                                Udah Tau Fishmarket Belum ?
                             </h2>
                         </div>
                         <p>
-                            There are many variations of passages of Lorem Ipsum available, but the majority have
-                            suffered alteration
-                            in some form, by injected humour, or randomised words which don't look even slightly
-                            believable. If you
-                            are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything
-                            embarrassing hidden in
-                            the middle of text. All
+                            Tempat dimana kamu bisa menikmati berbagai macam olahan hidangan laut dan ikan segar
+                            bersama keluarga dan temam-teman terdekat kamu. <br><br>
+
+                            Eits, bukan cuma hidangan laut aja loh, di Fishmarket juga tersedia berbagai 
+                            oalahan lain seperti ayam geprek, nasi tempong, mie jawa, cah kangkung, dll
+
+                            Yuk ajak orang terdekatmu ke Fishmarket Mandar sekarang....
                         </p>
                         <a href="">
-                            Read More
+                            Fishmarket
                         </a>
                     </div>
                 </div>
